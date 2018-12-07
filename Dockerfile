@@ -1,4 +1,4 @@
-FROM alpine:3.4
+FROM docker:stable-git
 
 MAINTAINER Doni Leong <doni.leong@gmail.com>
 
